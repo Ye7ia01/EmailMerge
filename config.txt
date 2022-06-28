@@ -1,0 +1,11 @@
+first_time=0
+server=192.168.12.61
+port=587
+sender=info-ca@mcsd.com.eg
+password=vodafone
+subject=الختم الالكترونى فى 15 دقيقة
+use_delimeter=
+body_delimeter=
+mile_stone= 10
+max_submit_rate_limit=5
+attached_file=Details.pdf
